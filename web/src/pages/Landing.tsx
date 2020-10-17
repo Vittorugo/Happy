@@ -20,7 +20,7 @@ function Landing(){
           <p>Paraíba</p>
         </div>
 
-        <Link to="/orphanages" className="enter-app">
+        <Link to="/app" className="enter-app">
           <img src={arrowImg} alt="Botão de entrar"/>
         </Link>
         
